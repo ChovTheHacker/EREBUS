@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo placeholder - nahraď 'output-onlinepngtools.png' svým logem -->
-<img src="output-onlinepngtools.png" alt="EREBUS Framework" width="280"/>
+<img src="logo.png" alt="EREBUS Framework" width="280"/>
 
 # 🛡️ EREBUS
 
